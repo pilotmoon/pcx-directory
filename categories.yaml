@@ -1,11 +1,11 @@
 Text Editing:
 - com.pilotmoon.popclip.extension.pasteplain
+- com.pilotmoon.popclip.extension.pasteandenter
 - com.pilotmoon.popclip.extension.delete
 - com.pilotmoon.popclip.extension.select-all
 - com.pilotmoon.popclip.extension.highlight
 Text Transformation:
 - com.pilotmoon.popclip.extension.formatting
-- com.pilotmoon.popclip.extension.pasteandenter
 - com.pilotmoon.popclip.extension.uppercase
 - com.pilotmoon.popclip.extension.lowercase
 - com.pilotmoon.popclip.extension.capitalize
