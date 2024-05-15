@@ -23,6 +23,7 @@ Text Transformation:
 - com.pilotmoon.popclip.extension.rot13
 AI Tools:
 - com.pilotmoon.popclip.extension.chatgpt
+- com.pilotmoon.x.chatgpt-website
 Markdown:
 - com.pilotmoon.popclip.extension.markdown-to-html
 - com.pilotmoon.popclip.extension.copy-as-markdown
