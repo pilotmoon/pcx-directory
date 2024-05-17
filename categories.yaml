@@ -170,16 +170,19 @@ Link Shortening:
 - com.pilotmoon.popclip.extension.bitly
 - com.pilotmoon.popclip.extension.droplr
 - com.pilotmoon.popclip.extension.short-menu
-Work with URLs:
-- com.pilotmoon.popclip.extension.open-in-browser
+Save Links:
 - com.pilotmoon.popclip.extension.safari-reading-list
+- cc.Anybox.anybox.PopClip.save
 - com.pilotmoon.popclip.extension.pocket
 - com.pilotmoon.popclip.extension.pinboard
 - com.pilotmoon.popclip.extension.readwise
 - com.miller.popclip.extension.raindrop
+Open & Download Links:
+- com.pilotmoon.popclip.extension.open-in-browser
+- com.pilotmoon.popclip.extension.iina
+- com.pilotmoon.popclip.extension.floating
 - com.pilotmoon.popclip.extension.leech
 - com.pilotmoon.popclip.extension.open-in-downie
-- com.pilotmoon.popclip.extension.getip
 Phone Numbers:
 - com.pilotmoon.popclip.extension.call
 - com.pilotmoon.popclip.extension.skype
@@ -201,6 +204,7 @@ For Developers:
 - com.pilotmoon.popclip.extension.SnippetsLab
 - com.pilotmoon.popclip.extension.unix-time
 - com.pilotmoon.popclip.extension.urlencode
+- com.pilotmoon.popclip.extension.getip
 Useful Tools:
 - com.pilotmoon.popclip.extension.calculate
 - com.pilotmoon.popclip.extension.convert
