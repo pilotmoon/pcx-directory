@@ -165,7 +165,7 @@ Music:
 - com.pilotmoon.popclip.extension.itunes-music
 - com.pilotmoon.popclip.extension.spotify-search
 - com.pilotmoon.popclip.extension.discogs
-Link Shortening:
+Shorten Links:
 - com.pilotmoon.popclip.extension.urlshortener
 - com.pilotmoon.popclip.extension.bitly
 - com.pilotmoon.popclip.extension.droplr
