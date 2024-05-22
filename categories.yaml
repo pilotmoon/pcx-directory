@@ -43,7 +43,7 @@ Text Display:
 - com.pilotmoon.popclip.extension.print
 Text-to-speech:
 - com.pilotmoon.popclip.extension.say
-Translation:
+Language & Translation:
 - com.popclip.extension.instant-translate
 - com.pilotmoon.popclip.extension.google-translate
 - com.pilotmoon.popclip.extension.bing-translator
@@ -54,7 +54,9 @@ Translation:
 - com.pilotmoon.popclip.extension.translate-tab
 - com.pilotmoon.popclip.extension.reverso
 - com.pilotmoon.popclip.extension.glosbe
+- com.ripperhe.popclip.extension.Bob
 - com.pilotmoon.popclip.extension.pinyin
+- com.pilotmoon.popclip.extension.cyrillic-transliteration
 Notes Apps:
 - com.pilotmoon.popclip.extension.notes
 - com.pilotmoon.popclip.extension.bear
@@ -98,9 +100,10 @@ Contacts Apps:
 - com.pilotmoon.popclip.extension.cardhop
 - com.pilotmoon.popclip.extension.busycontacts
 Drag & Drop Utilities:
+- com.pilotmoon.popclip.extension.dropshelf
+- com.andrewford.popclip.extension.gladystext
 - com.pilotmoon.popclip.extension.unclutter
 - at.EternalStorms.Yoink.PopClipExtension
-- com.pilotmoon.popclip.extension.dropshelf
 Launcher Utilities:
 - com.pilotmoon.popclip.extension.alfred
 - com.pilotmoon.popclip.extension.launchbar
@@ -121,19 +124,20 @@ Other Apps:
 - com.pilotmoon.popclip.extension.slack
 - com.pilotmoon.popclip.extension.dayone
 - org.tempel.pilotmoon.popclip.extension.FindAnyFile
-Web Search:
+Search Engines:
 - com.snowzjx.popclip.extension.baidu-search
 - com.pilotmoon.popclip.extension.bing
 - com.pilotmoon.popclip.extension.duckduckgo
 - com.pilotmoon.popclip.extension.ecosia
 - com.pilotmoon.popclip.extension.google-search
 - com.pilotmoon.popclip.extension.kagi
+- com.pilotmoon.popclip.extension.presearch
 - com.pilotmoon.popclip.extension.SearchNaver
 - com.pilotmoon.popclip.extension.startpage
 - com.pilotmoon.popclip.extension.yahoo-japan-search
 - com.pilotmoon.popclip.extension.yahoo-search
 - com.pilotmoon.popclip.extension.yandex
-Other Searches:
+Other Websites:
 - com.pilotmoon.popclip.extension.wikipedia
 - com.pilotmoon.popclip.extension.google-images
 - com.pilotmoon.popclip.extension.google-maps
@@ -153,7 +157,9 @@ Other Searches:
 - com.pilotmoon.popclip.extension.pubmed
 - com.pilotmoon.popclip.extension.worldcat
 - com.pilotmoon.popclip.extension.urban-dictionary
+- com.pilotmoon.popclip.extension.waybackmachine
 - com.pilotmoon.popclip.extension.wolframalpha
+- com.pilotmoon.popclip.extension.what3words
 - com.pilotmoon.popclip.extension.douban
 - com.pilotmoon.popclip.extension.taobao-search
 - com.pilotmoon.popclip.extension.jd
@@ -205,6 +211,7 @@ For Developers:
 - com.pilotmoon.popclip.extension.unix-time
 - com.pilotmoon.popclip.extension.urlencode
 - com.pilotmoon.popclip.extension.getip
+- com.oxxie.popclipextensions.namecolor
 Useful Tools:
 - com.pilotmoon.popclip.extension.calculate
 - com.pilotmoon.popclip.extension.convert
