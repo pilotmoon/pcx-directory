@@ -57,7 +57,7 @@ Language & Translation:
 - com.ripperhe.popclip.extension.Bob
 - com.pilotmoon.popclip.extension.pinyin
 - com.pilotmoon.popclip.extension.cyrillic-transliteration
-Notes Apps:
+Notes & Knowledge Management:
 - com.pilotmoon.popclip.extension.notes
 - com.pilotmoon.popclip.extension.bear
 - com.zengobi.curiota.popclip
@@ -75,8 +75,10 @@ Notes Apps:
 - com.pilotmoon.popclip.extension.nvalt
 - com.pilotmoon.popclip.extension.onenote
 - com.pilotmoon.popclip.extension.paper
+- com.pilotmoon.popclip.extension.roamresearch
 - com.pilotmoon.popclip.extension.sidenotes
 - com.pilotmoon.popclip.extension.tot
+- com.pilotmoon.popclip.extension.upnote
 - com.pilotmoon.popclip.extension.yojimbo
 Writing Apps:
 - com.pilotmoon.popclip.extension.scrivener
@@ -205,6 +207,7 @@ For Developers:
 - com.pilotmoon.popclip.extension.code-case
 - com.pilotmoon.popclip.extension.dash
 - com.pilotmoon.popclip.extension.htmlencode
+- com.pilotmoon.popclip.extension.mdn
 - com.pilotmoon.popclip.extension.quiver
 - com.pilotmoon.popclip.extension.rtc
 - com.pilotmoon.popclip.extension.SnippetsLab
