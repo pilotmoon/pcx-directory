@@ -111,11 +111,10 @@ Launcher Utilities:
 - com.pilotmoon.popclip.extension.launchbar
 - com.pilotmoon.popclip.extension.quicksilver
 - com.pilotmoon.popclip.extension.raycast
-Other Apps:
+Other Native Apps:
 - com.pilotmoon.popclip.extension.textedit
 - com.pilotmoon.popclip.extension.generic-mail
 - com.pilotmoon.popclip.extension.messages
-- com.pilotmoon.popclip.extension.maps
 - com.pilotmoon.popclip.extension.leap
 - com.pilotmoon.popclip.extension.HoudahSpot
 - com.pilotmoon.popclip.extension.tembo
@@ -142,7 +141,6 @@ Search Engines:
 Other Websites:
 - com.pilotmoon.popclip.extension.wikipedia
 - com.pilotmoon.popclip.extension.google-images
-- com.pilotmoon.popclip.extension.google-maps
 - com.pilotmoon.popclip.extension.google-scholar
 - com.pilotmoon.popclip.extension.twitter-search
 - com.pilotmoon.popclip.extension.amazon-search
@@ -161,10 +159,13 @@ Other Websites:
 - com.pilotmoon.popclip.extension.urban-dictionary
 - com.pilotmoon.popclip.extension.waybackmachine
 - com.pilotmoon.popclip.extension.wolframalpha
-- com.pilotmoon.popclip.extension.what3words
 - com.pilotmoon.popclip.extension.douban
 - com.pilotmoon.popclip.extension.taobao-search
 - com.pilotmoon.popclip.extension.jd
+Maps:
+- com.pilotmoon.popclip.extension.maps
+- com.pilotmoon.popclip.extension.google-maps
+- com.pilotmoon.popclip.extension.what3words
 Social Networking:
 - com.pilotmoon.popclip.extension.buffer
 - com.pilotmoon.popclip.extension.linkedin
