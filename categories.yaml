@@ -56,6 +56,7 @@ Language & Translation:
 - com.pilotmoon.popclip.extension.glosbe
 - com.ripperhe.popclip.extension.Bob
 - com.pilotmoon.popclip.extension.pinyin
+- com.pilotmoon.popclip.extension.traditional-simplified
 - com.pilotmoon.popclip.extension.cyrillic-transliteration
 Notes & Knowledge Management:
 - com.pilotmoon.popclip.extension.notes
@@ -80,6 +81,7 @@ Notes & Knowledge Management:
 - com.pilotmoon.popclip.extension.paper
 - com.pilotmoon.popclip.extension.roamresearch
 - com.pilotmoon.popclip.extension.sidenotes
+- com.pilotmoon.popclip.extension.tana
 - com.pilotmoon.popclip.extension.tot
 - com.pilotmoon.popclip.extension.upnote
 - com.pilotmoon.popclip.extension.yojimbo
