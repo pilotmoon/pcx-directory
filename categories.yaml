@@ -175,6 +175,7 @@ Other Websites:
 Maps:
 - com.pilotmoon.popclip.extension.maps
 - com.pilotmoon.popclip.extension.google-maps
+- com.pilotmoon.popclip.extension.openstreetmap
 - com.pilotmoon.popclip.extension.what3words
 Social Networking:
 - com.pilotmoon.popclip.extension.buffer
@@ -219,6 +220,7 @@ For Developers:
 - com.pilotmoon.popclip.extension.code-case
 - com.pilotmoon.popclip.extension.dash
 - com.pilotmoon.popclip.extension.htmlencode
+- com.pilotmoon.popclip.extension.iconify
 - com.oxxie.popclipextensions.namecolor
 - com.pilotmoon.popclip.extension.mdn
 - com.pilotmoon.popclip.extension.quiver
