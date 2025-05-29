@@ -180,6 +180,7 @@ Maps:
 - com.pilotmoon.popclip.extension.google-maps
 - com.pilotmoon.popclip.extension.openstreetmap
 - com.pilotmoon.popclip.extension.what3words
+- com.pilotmoon.popclip.extension.navermap
 Social Networking:
 - com.pilotmoon.popclip.extension.buffer
 - com.pilotmoon.popclip.extension.linkedin
