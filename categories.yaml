@@ -21,9 +21,11 @@ Text Transformation:
 - com.pilotmoon.popclip.extension.alternating-case
 - com.pilotmoon.popclip.extension.fullhalfwidth
 - com.pilotmoon.popclip.extension.rot13
+- com.pilotmoon.popclip.extension.alphagram
 AI Tools:
 - com.pilotmoon.popclip.extension.chatgpt-app
 - com.pilotmoon.popclip.extension.chatgpt-website
+- com.pilotmoon.popclip.extension.claude-website
 - com.pilotmoon.popclip.extension.chatgpt
 - com.pilotmoon.popclip.extension.ollama
 - com.pilotmoon.popclip.extension.perplexity-app
@@ -207,6 +209,7 @@ Save Links:
 - com.pilotmoon.popclip.extension.pinboard
 - com.pilotmoon.popclip.extension.readwise
 - com.miller.popclip.extension.raindrop
+- com.pilotmoon.popclip.extension.goodlinks
 Open & Download Links:
 - com.pilotmoon.popclip.extension.open-in-browser
 - com.pilotmoon.popclip.extension.iina
